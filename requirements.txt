@@ -3,7 +3,7 @@ langchain>=1.0
 langchain-classic>=1.0  # MultiVectorRetriever. langchain 1.x에서 분리됨 (필수)
 langchain-openai
 langchain-community
-langchain-chroma
+langchain-chroma #임베딩 기반 벡터 검색 엔진
 langchain-experimental
 langchain-ollama
 unstructured[all-docs]
